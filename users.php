@@ -1,9 +1,9 @@
 <?php
 $users = [
-    "jero" => [
-        "password" => "jero",
+    "anthony" => [
+        "password" => "anthony",
         "files" => [
-            "Jero.txt",
+            "Anthony.txt",
         ]
     ],
     "david" => [
@@ -11,6 +11,25 @@ $users = [
         "files" => [
             "David.txt",
         ]
+    ],
+    "jero" => [
+        "password" => "jero",
+        "files" => [
+            "Jero.txt",
+        ]
+    ],
+    "john michael" => [
+        "password" => "john michael",
+        "files" => [
+            "John Michael.txt",
+        ]
+    ],
+    "nick" => [
+        "password" => "nick",
+        "files" => [
+            "Nick.txt",
+        ]
     ]
 ];
+
 ?>
