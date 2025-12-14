@@ -9,7 +9,8 @@ $users = [
     "david" => [
         "password" => "david",
         "files" => [
-            "David.txt",
+            "David.txt", 
+            "Davidtwo.txt",
         ]
     ],
     "jero" => [
@@ -21,7 +22,7 @@ $users = [
     "john michael" => [
         "password" => "john michael",
         "files" => [
-            "John Michael.txt",
+            "John_Michael.txt",
         ]
     ],
     "nick" => [
@@ -30,6 +31,7 @@ $users = [
             "Nick.txt",
         ]
     ]
-];
 
+
+];
 ?>
