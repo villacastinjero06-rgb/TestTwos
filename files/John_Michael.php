@@ -1,18 +1,13 @@
 <?php
-$requiredFile = 'John_Michael.txt';
+$requiredFile = "John_Michael.txt";
+                "John_Michael.txt";
+                "JM_docblock.php";
+                "JM_GRADE.php";
+                "JM_Login.php";
+                "JM_multi_line.php";
+                "JM_single_line.php";
+                "JM_triangles.php";
+                "JM_Variable.php";
+                "JM_VOTE.php";
 include 'guard.php';
 ?>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>John Michael</h1>
-    <p>Woah</p>
-    <a href=John_Michael.txt>John Michael</a>
-</body>
-</html>

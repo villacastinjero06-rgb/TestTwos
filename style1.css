@@ -1,0 +1,80 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+
+body {
+    background: radial-gradient(#25012c 30%, #580949 90%);
+    width: 100%;
+}
+/* index.php */
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(40deg, #580949 30%, #9a046dfc 70%);
+    padding: 23px 30px;
+    max-width: fit-content;
+    max-height: auto;
+    margin: auto;
+    margin-top: 4.5em;
+    border-radius: 10px;
+    border: 2px solid #de0cc2e8;
+    color: rgb(242, 222, 239);
+    font-weight: 400;
+}
+ 
+input,
+button {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(53, 4, 59);
+}
+input:hover{
+    box-shadow: 0 0 30px #2f0322fc;
+}
+img {
+    background: #712e5edc;
+    border-radius: 50%;
+    padding: 6px;
+    margin-bottom: 8px;
+    border: 2px solid #bd139e;
+    box-shadow: 0 0 20px #ab2c94;
+    filter: brightness(120%);
+}
+h2 {
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+label {
+    display: block;
+    margin-bottom: -11px;
+    font-size: 17px;
+}
+input {
+    outline: none;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    background: #e256bdbb;
+    color: rgb(243, 204, 241);
+}
+button {
+    width: 100%;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    transition: all 0.5s ease-in-out;
+    margin: 10px 0;
+    background: #510c47c5;
+    font-weight: bold;
+    color: rgb(243, 204, 241);
+    border: 1px solid #fac1f4;
+}
+button:hover {
+    transform: scale(105%);
+    transition: all 0.5s ease-in-out;
+    box-shadow: 0 0 20px #efcfe6a1;
+}
