@@ -2,8 +2,8 @@
 for ease of access
 (I Have no Idea what I'm doing)
 <h1>BIG NOTE (READ THIS SERIOUSLY)</h1>
+<p><i>There are four sets included in this project</i></p>
 <h4>Main and Final File</h4>
-<p>There are four sets included in this project</p>
 <p>Project 1.4 (Reconfigured), same as 1.4 except the code where you can't access files when not logged-in actually works</p>
 <h4>These are the extras and previous builds</h4>
 <p>Project 1.4 is supposed to be the final output</p>
