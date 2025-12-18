@@ -48,8 +48,13 @@ for Computer Programming, Final Project
     <td>nick</td>
     <td>nick</td>
   </tr>
+  <tr>
+    <td>6</td>
+    <td>john rey</td>
+    <td>john rey</td>
+  </tr>
 </table>
 
 <h2>Notes</h2>
-<p>Group work by Anthony, David, Jero, John Michael, and Nick</p>
+<p>Group work by Anthony, David, Jero, John Michael, Nick, and John Rey</p>
 <p>:3</p>
