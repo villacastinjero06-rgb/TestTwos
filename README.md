@@ -4,11 +4,11 @@ for ease of access
 <h1>BIG NOTE (READ THIS SERIOUSLY)</h1>
 <p><i>There are four sets included in this project</i></p>
 <h4>Main and Final File</h4>
-<p><b>Project 1.4 (Reconfigured)</b>, same as 1.4 except the code where you can't access files when not logged-in actually works</p>
+<p><b>[Project 1.4 (Reconfigured)]</b>, same as 1.4 except the code where you can't access files when not logged-in actually works</p>
 <h4>These are the extras and previous builds</h4>
-<p><b>Project 1.4</b> is supposed to be the final output</p>
-<p><b>Project 1.3</b> is the stripped down basic output with only the .txt files</p>
-<p><b>Project 1.2</b> is the base version of the project, the same as [Project 1.3]</p>
+<p><b>[Project 1.4]</b> is supposed to be the final output</p>
+<p><b>[Project 1.3]</b> is the stripped down basic output with only the .txt files</p>
+<p><b>[Project 1.2]</b> is the base version of the project, the same as [Project 1.3]</p>
 
 <h2>EXTRAS</h2>
 <p>notes inside the code are for David and John Michael to Read</p>
