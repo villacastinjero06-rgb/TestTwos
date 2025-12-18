@@ -71,9 +71,17 @@ $users = [
             "N_triangle.php",
             "N_variable.php",
             "N_vote.php",
+    ]
+    ],
+    "john rey" => [
+        "password" => "john rey",
+        "files" => [
+            "John_Rey.txt",
+            "JR_grade.php",
+            "JR_variable.php",
+            "JR_vote.php",
         ]
     ]
-
 
 ];
 ?>
