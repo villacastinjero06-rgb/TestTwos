@@ -6,6 +6,7 @@ include "users.php";
 $requestedFile = $_GET['file'] ?? null;
 
 $me = $_SESSION['adminuser'] ?? null;
+//This is important. :P
 if (!$me) {
     http_response_code(403);
     exit("Access denied: Please log in first");
@@ -22,6 +23,7 @@ if (!isset($users[$me])) {
 }
 
 //user has access?
+//this is the most important one. Do not remove -Jero
 if (!in_array($requestedFile, $users[$me]["files"])) {
     http_response_code(403);
     exit("Access denied: You do not have permission to access this file");
@@ -34,3 +36,4 @@ if (!file_exists($filePath)) {
 }
 
 include $filePath;
+?>

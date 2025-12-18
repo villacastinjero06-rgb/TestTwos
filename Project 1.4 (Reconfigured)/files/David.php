@@ -1,4 +1,4 @@
 <?php
-$requiredFile = "David.txt";
-include "guard.php";
+    $requiredFile = "David.txt";
+    include "guard.php";
 ?>
