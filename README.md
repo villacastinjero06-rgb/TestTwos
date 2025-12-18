@@ -6,6 +6,8 @@ for ease of access
 <h4><b>MAIN FILES</b></h4>
 <p><b>[Project 1.4 (Reconfigured)]</b>, same as 1.4 except the code where you can't access files when not logged-in actually works</p>
 <p><b>[Project 1.4 [ANTHONY EDIT] TestTwos-main]</b> Same as "1.4 (Reconfigured)" with additional edits by anthony</p>
+<br>
+<br>
 <h4>These are the <b>EXTRAS</b> and <b>PREVIOUS BUILDS</b></h4>
 <p><b>[Project 1.4]</b> is supposed to be the final output</p>
 <p><b>[Project 1.3]</b> is the stripped down basic output with only the .txt files</p>
